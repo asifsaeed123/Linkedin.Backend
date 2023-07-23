@@ -5,6 +5,10 @@ VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linkedin.Backend", "Linkedin.Backend\Linkedin.Backend.csproj", "{B36344A8-E246-49DE-9328-0D58DF5F88A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{CCAEE799-7421-43BB-ABB2-968EA8BAA0A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{0F3E5584-1828-4BCE-AA59-4817C3B6282B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{B36344A8-E246-49DE-9328-0D58DF5F88A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B36344A8-E246-49DE-9328-0D58DF5F88A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B36344A8-E246-49DE-9328-0D58DF5F88A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCAEE799-7421-43BB-ABB2-968EA8BAA0A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCAEE799-7421-43BB-ABB2-968EA8BAA0A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCAEE799-7421-43BB-ABB2-968EA8BAA0A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCAEE799-7421-43BB-ABB2-968EA8BAA0A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F3E5584-1828-4BCE-AA59-4817C3B6282B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F3E5584-1828-4BCE-AA59-4817C3B6282B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F3E5584-1828-4BCE-AA59-4817C3B6282B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F3E5584-1828-4BCE-AA59-4817C3B6282B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
