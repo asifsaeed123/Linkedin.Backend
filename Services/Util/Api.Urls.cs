@@ -12,7 +12,7 @@ namespace Services
         public const string LI_FIND_USER_ROLES_ENDPOINT = "https://api.linkedin.com/v2/organizationAcls?q=roleAssignee&oauth2_access_token=";
         public const string LI_ME_ENDPOINT = "https://api.linkedin.com/v2/me?oauth2_access_token=";
         public const string TOKEN_INTROSPECTION_ERROR_MESSAGE = "Error introspecting token, service is not initiated";
-        public const string SAMPLE_APP_BASE = "java-sample-application";
+        public const string SAMPLE_APP_BASE = "LinkedinAPI";
         public const string SAMPLE_APP_VERSION = "version 1.0";
 
         public enum AppName
